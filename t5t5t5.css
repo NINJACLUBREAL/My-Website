@@ -1,0 +1,13 @@
+
+:root {
+    --color: linear-gradient(rgb(149, 0, 255),rgb(0, 149, 255),rgb(26, 255, 0)rgb(255, 234, 0),rgb(255, 98, 0),red);
+}
+body {
+    background-image: linear-gradient(red,rgb(255, 98, 0),rgb(255, 234, 0),rgb(26, 255, 0),rgb(0, 149, 255),rgb(149, 0, 255));
+    text-shadow: 2px 2px 5px rgb(0, 0, 0);
+    font-family: "Plus Jakarta Sans";
+    
+}
+a {
+   color: aqua; 
+}
